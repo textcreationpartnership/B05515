@@ -1,0 +1,165 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Proclamation anent the excise after the first of March next, 1699.</title>
+            <author>Scotland. Privy Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05515</idno>
+            <idno type="STC">Wing S1662</idno>
+            <idno type="STC">ESTC R226081</idno>
+            <idno type="EEBO-CITATION">52528940</idno>
+            <idno type="OCLC">ocm 52528940</idno>
+            <idno type="VID">178997</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05515)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 178997)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2775:68)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Proclamation anent the excise after the first of March next, 1699.</title>
+                  <author>Scotland. Privy Council.</author>
+                  <author>Scotland. Sovereign (1694-1702 : William II)</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the heirs and successors of Andrew Anderson, Printer to the Kings most excellent Majesty,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>Anno Dom. 1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Initial letter.</note>
+                  <note>Intentional blank spaces in text.</note>
+                  <note>Dated at end: Given under Our Signet at Edinburgh, the twenty third day of February, and of Our Reign the tenth year. 1699.</note>
+                  <note>Signed: Gilb. Eliot, Cls. Sti. Concilii.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Brewing industry --  Law and legislation --  Scotland --  Early works to 1800.</term>
+               <term>Excise tax --  Law and legislation --  Scotland --  Early works to 1800.</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:178997:1"/>
+            <head>PROCLAMATION <hi>Anent the Exciſe after the first of</hi> March <hi>next,</hi> 1699.</head>
+            <opener>
+               <signed>
+                  <seg rend="decorInit">W</seg>ILLIAM by the Grace of GOD, King of Great <hi>Britain, France</hi> and <hi>Ireland,</hi> Defender of the Faith; </signed>
+            </opener>
+            <opener>
+               <salute>To Macers of Our Privy Council, Meſſengers at Armes, Our Sheriffs in that part, Con<g ref="char:EOLhyphen"/>junctly and Severally, Specially Conſtititut Greeting;</salute>
+            </opener>
+            <p>Foraſmuch as, the Annexed-Exciſe, as Converted by the Twenty Eight <hi>Act</hi> of the firſt Seſſion of this current <hi>Parliament,</hi> from Two <hi>Merks</hi> upon the Boll of <hi>Malt,</hi> to an Exciſe of Three <hi>Pennies</hi> upon the Pint of all <hi>Ale</hi> and <hi>Beer</hi> Browen to be Vended and Sold with the Exciſes of other Liquors mentioned in the ſaid <hi>Act,</hi> are now Set in Tack by the Lords of Our Theſaury and Exchequer, to <hi>William Menȝies</hi> late Baillie of <hi>Edinburgh,</hi> and <hi>Alexander Wood</hi> Merchant there, for the ſpace of Five years, to commence from the firſt of <hi>March</hi> next to come incluſive: And that the Lords of Our Privy Council are Authorized and Impowered to preſcribe ſuch Methods and Orders, beſides theſe mentioned in the Acts of <hi>Parliament;</hi> as they ſhall judge neceſſary, for the better Uplifting and Inbringing of the ſaids Exciſes: Therefore, and for Determining all Differences that may ariſe betwixt the Brewers and the Tackſmen of the ſaids Exciſes, and their Sub-Tackſmen or Collectors, during the Space and Years of the foreſaid Tack. And for the due and timeous making of Entries of all Liquors Browen or Imported Lyable to the ſaid Exciſe: We, with Advice of the Lords of Our Privy Council, Do, Require and Command the Commiſſioners of Supply of the ſeveral Shires within this Kingdom, Qualified according to Law, and reſiding within the Shire; And who by the ſaid <hi>Act</hi> of <hi>Parliament</hi> are Appointed Commiſſioners of the ſaids Exciſe, to Meet at the Head-Burghs of the reſpective Shires, upon the firſt <hi>Tueſday</hi> of <hi>April</hi> next to come, and at their ſaid Meeting, to Divide themſelves as is preſcribed by the ſaid <hi>Act,</hi> and to Settle, and Appoint Places at convenient Diſtances, where the publick Exciſe-Offices may be beſt keeped, for the Brewers and Retailers to Enter, and give up the Quantities of Liquors Browen and Retailed by them, lyable in Payment of the ſaid Exciſes, and Appoints the ſaids Commiſſioners, immediately after Deſigning Places for the ſaids Offices, to cauſe make publick Intimation at all the Church Doors within the reſpective Shires of the particular Places deſigned by them for the ſeveral Exciſe-Offices, with Certification to the ſaids Commiſſioners or any of them reſiding within the ſaids reſpective Shires, who ſhall Failȝie to meet the ſaid firſt <hi>Tueſday</hi> of <hi>April</hi> next to come, and to Appoint and Deſign the particular Places for Exciſe-Offices in manner above-expreſt, their Names ſhall be returned by their Clerks to the Lords of Our Privy Council, to the effect they may take ſuch Courſe therewith as they ſhall ſee Cauſe: And We, with Advice fore<g ref="char:EOLhyphen"/>ſaid, Require and Command the ſaids Commiſſioners to Meet the firſt <hi>Tueſday</hi> of every Month thereafter, during the Continuance of the foreſaid Tack, for the Ends preſcribed, and ſet down in the <hi>Acts</hi> of <hi>Parliament:</hi> And We, with Advice foreſaid, Require and Command the whole Brewers and Retailers within the Bounds alloted for the ſaids Exciſe-Offices, to Attend the Commiſſioners thereat, upon the ſaid firſt <hi>Tueſday</hi> of <hi>April</hi> next, without any farder Charge, Citation or Intimation to them for that effect, but allanerly upon the Publication hereof; And there to Give in, and Make, and the ſaids Commiſſioners to Receive from them an true Accompt of their Names, place of Reſidence, and the Time when they did begin to Brew, what ever the Quantitie may be: And likeways, full and faithfull Entries of all Liquors Browen or Retailled by them, lyable in Pay<g ref="char:EOLhyphen"/>ment of the ſaids Exciſes after the firſt Day of <hi>March</hi> next to come incluſive, Declaring hereby, and Certifying ſuch Brewers and Retailers as ſhall not Compear and Attend the ſaids Commiſſioners the firſt <hi>Tueſday</hi> of every Month, for Giving up their Names, Places of Abode, and Time when they did begin to Brew; And for making Entery of the preciſe Quantities of all Liquors Browen and Retailed by them, lyable to Exciſe for the preceeding Month, they ſhall be holdenas Confeſt, and Decreets given againſt them for the Quantities contained in the Claims and Complaints to be given in by the Tackſm<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n, or their Sub-Tackſmen or Collectors againſt them, providing nevertheleſs, that if the ſaids Brewers or Retailers holden as Confeſt, as ſaid is, ſhall at any time within Three Months thereafter. Compear before any Two of the ſaids Commiſſioners, afterhaving made due Intimation to the Tackſmen, or their foreſaids, and there make Faith as above, and report a Certificat under the hands of the ſaids Commiſſioners, They ſhall be Re<g ref="char:EOLhyphen"/>poned againſt the ſaid Certification, upon punctual Payment of what they ſhall be found due. And We, with Advice foreſaid, Appoint and Ordain, that no Brewer or Re<g ref="char:EOLhyphen"/>tailer within Burgh of Royalty, Regality or Barrony, Vend or Sell any part of their Browſt, until firſt, they make Entery thereof at the Exciſe-Office there, (if any be) and obtain a Sufferance for the Quantities Browen, or upon their hand, which the Keeper of the Exciſe-Office is to give without delay <hi>Gratis;</hi> And that in caſe of none-entry, or wrongous Entry, the Brewer or Retailer within Burgh, be lyable in the Sum of Ten <hi>Pounds Scots, toties quoties,</hi> and to all Execution competent for payment thereof. And it is hereby declared, that the ſaids Entries or Claims in Abſence, may nevertheleſs be diſproven before any Magiſtrat, Juſtice of Peace, or Commiſſioner of Exciſe, by Witneſſes or Oath of Party, notwithſtanding of any Survey made by the Surveyers and Walters, Poviding, the ſame be done within <gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ight days thereafter; and that all Brewers Barrels be for hereafter marked with their own name, and the Seal of the next Office, which ſhall be furniſhed to them <hi>gratis.</hi> As alſo that no Perſon who hath foreborn to Brew for the ſpace mentioned in the Act one Thouſand ſix Hundred &amp; ninety three, ſhall begin, unleſs they firſt get Licence from the Tackſmen foreſaid, and that no Perſon preſume to Reſet any Ale or drinking Beer in their Houſes, in order to the imbazling the Exciſe thereof, under the Pain of ten pounds <hi>toties quoties,</hi> to the forſaids Tackſmen their Sub-tackſmen or Collectors; And farder, that all Tapſters, and Venders of Ale and drinking Beer, ſhall from the ſaid firſt day of <hi>March</hi> next incluſive, before they Tap or Vend the ſame firſt make Entry of what they have upon their hand, at the next Exciſe Office of the bounds now in being, and at the ſame time take a Licence there: And in regard the Exciſe of ſtrong Waters, Aquavity and Forraign Beer and Ale, is ordered by Act of Parliament to be payed by the Retailers; Therefore We with advice forſaid, Require and Command all Brewers of Aquavity or ſtrong Waters, to make Monethly Entries of the quantities of ſtrong Liquors Browen by them, and give in ſubſcribed Liſts to the next Exciſe Office, of the names of the Perſons to whom they Sell their Aquavity or ſtrong Waters, to be again ſold by Retail; As likewiſe that all Retailers of Brandy, forraign A<g ref="char:EOLhyphen"/>quavity and ſtrong Waters, make the like Entries of what quantities of Brandy, Forraign Aquavity and ſtrong Waters they have upon their hand unretailed the ſaid firſt day of <hi>March,</hi> to the effect that they may be lyable for the Exciſe thereof, at ſix ſhilling <hi>per</hi> Pint: As alſo that the Collectors, Clerks, or Surveyers at Sea-ports, give up a parti<g ref="char:EOLhyphen"/>cular account to the ſaids Tackſmen or their Sub-tackſmen and Collectors of the ſaid Exciſe, of the quantities of Forraign ſtrong Waters, Brandy and Forraign Beer and Ale, impor<g ref="char:EOLhyphen"/>ted from time to time, and who is the Importer, that the ſaid Importer may pay the Exciſe of Brandy conform to the <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Act of the <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Seſſion of this current Parliament: As alſo that the ſaid Merchant importer, and all other Perſons importing the ſaid Forraign Aquavity and ſtrong Waters, who pretend to Sell the foreſaid Liquors in haill Sale, that is to ſay above a Pint, as the Act of Parliament hath determined, be lyable and oblidged to give and deliver ſubſcribed Liſts to the ſaids Tackſmen, and their Sub-tackſmen or their Collectors, of the Perſons names to whom they Sell the ſaid ſtrong Waters, or Forraign Beer or Ale, and of the quantities Sold to them, to the effect the Retailer may be lyable for the Exciſe thereof, and in caſe the ſaids Commiſſioners or at leaſt two of them ſhall fail to meet, and attend the ſaids reſpective Exciſe Offices upon the ſaid firſt <hi>Tueſday</hi> of <hi>April</hi> next to come, or upon the firſt <hi>Tueſday</hi> of any ſubſequent Moneth during the continuance of the ſaid Tack, the whole diviſion, and each of them reſiding within the ſaid Shire under the Certification foreſaid, and after Inſtruments taken againſt them of their Failȝie; We with advice foreſaid Require and Command the Sheriffs and their Deputs, or ſuch as the ſaids Sheriffs or Deputs ſhall ſubſtitute to each particular Dyet for that effect allanarly, to repair to the ſaids reſpective Offices within three days after they ſhall be deſired by the Tackſmen, or their Sub-tackſmen, or Collectors of the ſaids Exciſes, there Summarly to Judge upon what occurs within the Bounds of that Office, in reference to the ſaids Exciſes, certifying the ſaids Sheriffs and their Deputs or Subſtituts, if they failȝie: they ſhall be puniſhed as the Lords of Our Privy Council ſhall think fit. And farder, We with advice foreſaid, Prohibit and Diſcharge any of the Commiſſioners of Supply, or other inferior Judge or Officers of the Law within this Our Realm, to ſtop or hinder either Quartering, Poynding, Impriſoning, or any other lawful Execution that ſhall be uſed by Our Tackſmen, or their Sub<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tackſ<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> and Collectors of the ſaids Excites, againſt the reſpective Brewers and Retailers, conform to the Entries that ſhall be made by them, or according to the quantity of the Liquor Retailed by them, or whereupon they ſhall be holden as Confeſt in manner, and before the Judges above mentioned, except they crave to be Reponed within three Mo<g ref="char:EOLhyphen"/>neths in manner above provided, under the Pain of being not only lyable for the Charges and Damnages Our ſaids Tackſmen, their Sub-tackſmen and Collectors ſhall ſuſtain and incurr there through, but alſo to ſuch further Pains, as the Lords of Our Privy Council ſhall think fit: And laſtly, it is hereby declared, that all the Penalties <hi>toties quoties</hi> above mentioned, are not to be underſtood for every Delinquency or Fault, but allanarly for every Conviction, and the Tranſgreſſions to be therein found. OUR WILL IS HEREFORE, and We Charge you ſtrictly and Command, that incontinent theſe Our Letters ſeen, ye paſs to the Mercat-Croſs of <hi>Edinburgh,</hi> and remanent Mercat-croſſes of the whole head Burghs of the ſeveral Shires and Stewartries within this Kingdom, and there in Our name and Authority by open Proclamation, make Intimation hereof, that none pretend Ignorance, and Ordains Printed Copies hereof to be ſent to the Sheriffs of the ſeveral Shires and Stewarts of the Stewartries within this Kingdom, whom, and heir Clerks, We Ordain to ſee the ſamen Publiſhed, and Copies hereof Affixed at the ſaid Mercat-croſſes; and appoints them to ſend Doubles thereof to all the Miniſters, both <gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n Churches and Meeting-Houſes within their reſpective Juriſdictions, that upon the Lords day immediatly preceeding the ſaid firſt <hi>Tueſday</hi> of <hi>April</hi> next, the ſame may be Re<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: missing" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>d and Intimat in every Paroch Church and Meeting-houſe, and Copies of the ſame Affixed upon the moſt Publick Doors thereof; and Ordains theſe Preſents to be Printed,</p>
+            <closer>
+               <dateline>Given under Our Signet at <hi>Edinburgh,</hi> 
+                  <date>the twenty third day of <hi>February</hi> and of Our Reign the tenth year. 1699,</date>
+               </dateline> 
+               <hi>Per Actum Dominorum Secreti Concilii.</hi>
+               <signed>GILB. ELIOT, <hi>Cls. Sti. Concilii.</hi>
+               </signed>
+            </closer>
+            <closer>GOD Save the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Edinburgh,</hi> Printed by the Heirs and Succeſſors of <hi>Andrew Anderſon,</hi> Printer to the Kings Moſt Excellent Majeſty, <hi>Anno DOM.</hi> 1699.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
